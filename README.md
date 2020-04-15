@@ -5,10 +5,6 @@ A tutorial for mnist hand writen digit classification using sklearn, pytorch and
 * [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
 * [`pytorch.ipynb`](pytorch.ipynb): for pytorch.
 * [`keras.ipynb`](keras.ipynb): for keras.
-* Reference solution: (not published yet)
-    * [`numpy_matplotlib_sklearn_solution.ipynb`](numpy_matplotlib_sklearn_solution.ipynb)
-    * [`pytorch_solution.ipynb`](pytorch_solution.ipynb)
-    * [`keras_solution.ipynb`](keras_solution.ipynb)
 
 # Requirements
 Code tested on following environments, other version should also work:
