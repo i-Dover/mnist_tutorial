@@ -5,6 +5,8 @@ A tutorial for mnist hand writen digit classification using sklearn, pytorch and
 * [`numpy_matplotlib_sklearn.ipynb`](numpy_matplotlib_sklearn.ipynb): for numpy, matplotlib and sklearn.
 * [`pytorch.ipynb`](pytorch.ipynb): for pytorch.
 * [`keras.ipynb`](keras.ipynb): for keras.
+I used pytorch to train a simple nerual network for minist classification, didn't use keras. The final test
+accuracy of the simple net is 97.12%. And I also implemented a simple resnet, the final test accuracy is 99.06%
 
 # Requirements
 Code tested on following environments, other version should also work:
